@@ -113,7 +113,8 @@ Suggestions, bug reports, and ideas for improvement are welcome. Feel free to fo
 
 **Ermias Lemma**
 
-- GitHub: [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [YOUR_USERNAME](https://github.com/Ermiyeager
+)
 - LinkedIn: [Ermias Lemma](https://linkedin.com/in/ermias-lemma-4a9a65376)
 
 ---
